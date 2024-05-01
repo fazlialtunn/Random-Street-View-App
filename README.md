@@ -9,7 +9,7 @@ Explore The World is an iOS app that allows users to explore random streets arou
 - Simple and intuitive user interface.
 
 ## Screenshots
-<img width="322" alt="Screenshot 2023-07-11 at 00 54 50" src="https://github.com/fazlialtunn/Random-Street-View-App/assets/32793348/6cda6c30-0ff2-4be9-b170-44cecc83d0cc">
+<img width="322" alt="Screenshot 2023-07-11 at 00 54 50" src="https://github.com/fazlialtunn/Random-Street-View-App/assets/32793348/97402354-1006-4f39-958c-1b230c73942b">
 
 ## Requirements
 
